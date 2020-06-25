@@ -1,0 +1,16 @@
+{
+	"name": "Spark-Remote",
+	"context": ".",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"python.pythonPath": "/opt/conda/bin/python",
+		"python.linting.enabled": true,
+		"python.linting.pylintEnabled": false,
+		"python.linting.flake8Enabled": true,
+	},
+	"extensions": [
+		"ms-python.python",
+		"mutantdino.resourcemonitor"
+	]
+}
