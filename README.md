@@ -15,5 +15,5 @@ I've done all the hard work for you, just use this DockerFile.
 * Open the repo locally from within VS Code - it will prompt you to open it using the container
 * Configure your credentials - see the Databricks docs
 * Test by running `databricks-connect test`
-* Viola! enjoy!
+* Voila! enjoy!
 
